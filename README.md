@@ -12,4 +12,4 @@ This module implements a **Vector Database** using ChromaDB and Sentence-Transfo
 The system converts text data into high-dimensional vectors. When a user asks a question, the system converts the query into a vector and finds the "nearest neighbor" in the database to provide a contextually accurate answer.
 
 ## Result Screenshot
-![Task 1 Result](PASTE_LINK_TO_YOUR_SCREENSHOT_HERE)
+![Task 1 Result](result2.png)
